@@ -1,0 +1,20 @@
+h1{
+    color: #008F39;
+}
+span{
+    color:#FFF;
+    background-color: red;
+}
+
+ img{
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+ }
+
+div{
+    margin-top: 20px;
+    border-color: #000;
+    border-style: solid;
+    border-width: 3px;
+}
